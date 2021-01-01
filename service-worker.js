@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/trevor-resume/precache-manifest.1e066b463cbb45c52846b73b5b3e67f7.js"
+  "/trevor-resume/precache-manifest.e52f664e09cd30631f255937d063b086.js"
 );
 
 self.addEventListener('message', (event) => {
